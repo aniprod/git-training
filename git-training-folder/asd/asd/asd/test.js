@@ -1,2 +1,2 @@
-const test = "1434"
-const svetlio = 'asdasdasd'
+const test = "1111"
+const svetlio = 'Pesho'
